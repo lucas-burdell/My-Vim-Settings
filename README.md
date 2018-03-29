@@ -2,6 +2,11 @@
 A repository containing my .vimrc and .vim/ data.
 
 ## Installation
+
+### Automatic Install
+Just run the `auto-install.sh` file as sudo, and everything should be taken care of for you.
+
+### Manual Install
 Copy the `.vimrc` file and `.vim/` folder into your `$HOME` folder. Make sure you have ViM installed.
 
 ## Example Screenshot
