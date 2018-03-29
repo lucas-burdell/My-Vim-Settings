@@ -35,10 +35,10 @@ hi! TabLine guibg=#141414 guifg=#404040 ctermbg=233 ctermfg=238
 
 if g:lucascolor#high_contrast#comments == 1
    " hi! Comment guibg=bg guifg=#A6A185 ctermbg=bg ctermfg=248 
-   hi! Comment guibg=bg guifg=#127205 ctermbg=bg ctermfg=46
+   hi! Comment guibg=bg guifg=#127205 ctermbg=bg ctermfg=28
 endif
 
-hi! Comment guibg=bg guifg=#127205 ctermbg=bg ctermfg=46
+hi! Comment guibg=bg guifg=#127205 ctermbg=bg ctermfg=28
 " Folds:
 if g:lucascolor#focus_variant == 1
     hi! FoldColumn guibg=bg guifg=#303030 ctermbg=236 ctermfg=238
